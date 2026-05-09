@@ -374,17 +374,7 @@ gitGraph
 [![Discussions](https://img.shields.io/badge/GitHub-Discussions-181717?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/discussions)
 [![Issues](https://img.shields.io/badge/Issues-Report_Bug-red?style=for-the-badge&logo=github)](https://github.com/Ratna-Babu/ai-website-builder/issues)
 
-### ⭐ Show Your Support
 
-<table>
-<tr>
-<td align="center">
-
-Give a ⭐ if this project helped you!
-
-[![GitHub stars](https://img.shields.io/github/stars/Ratna-Babu/ai-website-builder?style=social)](https://github.com/Ratna-Babu/ai-website-builder)
-
-</td>
 
 </tr>
 </table>
